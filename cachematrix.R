@@ -2,7 +2,7 @@
 ##    takes an input value for a matrix
 ##    once new value for matrix is entered, sets inverse variable to null
 ##    creates 4 functions to retrieve and set value of matrix and inverse
-##    stores list containing these 4 functions
+##    stores list containing these 4 functions with names
 
 makeCacheMatrix <- function(x = matrix()) {
       inverse<-NULL
